@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **abdullahmohamed137@gmail.com**
+- 📫 How to reach me **dev.abdullahmohamed137@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LgFDCA3eXlg7BuflmFXsaEzR2vgHSoyg/view?usp=sharing" target="_blank">CV Link</a>
 
