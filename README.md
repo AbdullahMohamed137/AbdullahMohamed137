@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **dev.abdullahmohamed137@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LgFDCA3eXlg7BuflmFXsaEzR2vgHSoyg/view?usp=sharing" target="_blank">CV Link</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1giEYSiRfbUIXkVmPSmCq9kWjK5K9EcaE/view?usp=drive_link" target="_blank">CV Link</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
