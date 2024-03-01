@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer from Egypt</h3>
 
 
-- 🔭 I’m looking for a job opportunity
+- 🔭 Trainee at SolutionPlus 
 
 
 - 🌱 I’m currently learning **Kotlin**
