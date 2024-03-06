@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer from Egypt</h3>
 
 
-- 🔭 Trainee at SolutionPlus 
+- 🔭 android developer intern at SolutionPlus
 
 
 - 🌱 I’m currently learning **Kotlin**
