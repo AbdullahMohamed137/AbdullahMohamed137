@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mohamed</h1>
-<h3 align="center">A Software developer from Egypt</h3>
+<h3 align="center">A Mobile application developer from Egypt</h3>
 
 
 - 🔭 android developer intern at Digital Egypt Pioneers Initiative - DEPI
