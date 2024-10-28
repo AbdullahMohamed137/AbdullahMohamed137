@@ -2,10 +2,10 @@
 <h3 align="center">A Software developer from Egypt</h3>
 
 
-- 🔭 android developer intern at SolutionPlus
+- 🔭 android developer intern at Digital Egypt Pioneers Initiative - DEPI
 
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **dev.abdullahmohamed137@gmail.com**
 
