@@ -2,7 +2,7 @@
 <h3 align="center">A Mobile application developer from Egypt</h3>
 
 
-- 🔭 android developer intern at Digital Egypt Pioneers Initiative - DEPI
+- 🔭 mobile developer intern at Digital Egypt Pioneers Initiative - DEPI
 
 
 - 🌱 I’m currently learning **Flutter**
